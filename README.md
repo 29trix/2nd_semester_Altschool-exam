@@ -99,4 +99,4 @@ Step 4: Ping the slave sever to ensure connect with slave
 
 Step 4: Verify PHP application accessibility and take a screenshot as evidence
 Access the PHP application through the Slave node's IP address using a web browser.
-![laravel homepage](./images/laravel.png)
+![laravel](./images/laravel.png)
