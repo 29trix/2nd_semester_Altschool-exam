@@ -1,8 +1,8 @@
+# Cloud Engineering Second Semester Examination Project
 
+## (Deploy LAMP Stack)
 
-(Deploy LAMP Stack)
-
-Objective
+## Objective
 Automate the provisioning of two Ubuntu-based servers, named “Master” and “Slave”, using Vagrant.
 On the Master node, create a bash script to automate the deployment of a LAMP (Linux, Apache, MySQL, PHP) stack.
 This script should clone a PHP application from GitHub, install all necessary packages, and configure Apache web server and MySQL. 
@@ -21,7 +21,7 @@ Let's start with step-by-step implementation:
 
 Step 1: Set up the servers using Vagrant
 Ensure you have Vagrant installed on your system. Then, create a Vagrantfile with the following configuration:
-![vagrant-file](./images/Vagrantfile.png)
+![vagrant-file](./images/vagrantfile.png)
 
 Step 2: Create a bash script for LAMP stack deployment on the Master node
 Create a bash script named automate.sh
