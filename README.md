@@ -94,8 +94,9 @@ Keeps the default port (3306)
 Step 3: Create an Ansible playbook to execute the bash script on the Slave node
 Create an Ansible playbook named deploy.yml with the following content:
 Step 4: Ping the slave sever to ensure connect with slave
+
 ![ping server](./images/ping.png)
 
 Step 4: Verify PHP application accessibility and take a screenshot as evidence
 Access the PHP application through the Slave node's IP address using a web browser.
-![laravel homepage](laravel.png)
+![laravel homepage](./images/laravel.png)
