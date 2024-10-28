@@ -1,6 +1,4 @@
-# Cloud Engineering Second Semester Examination Project
-
-## (Deploy LAMP Stack)
+# Deployment of LAMP Stack
 
 ## Objective
 Automate the provisioning of two Ubuntu-based servers, named “Master” and “Slave”, using Vagrant.
